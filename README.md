@@ -34,13 +34,12 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,react,nextjs,postgres,mongodb,redis,docker,gcp,aws,githubactions&theme=dark" alt="Python, FastAPI, Node.js, React, Next.js, PostgreSQL, MongoDB, Redis, Docker, GCP, AWS, GitHub Actions">
 </p>
 
-**AI:** LangGraph · LangChain · LlamaIndex · OpenAI · Claude · Gemini · MCP · RAG · text-to-SQL · LLM-as-judge evals · LangSmith
+**AI:** LangGraph · LangChain · LlamaIndex · OpenAI · Claude · Gemini · MCP · RAG · text-to-SQL · LLM-as-judge evals · LangSmith<br>
 **Data:** Qdrant · Pinecone · Neo4j · PostgreSQL · MongoDB · Redis
 
-### 📊 GitHub stats
+### 📊 Languages
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Simar00316&show_icons=true&hide_border=true&bg_color=07051a&title_color=ff9de2&icon_color=7fe7ff&text_color=f4f1ff&count_private=true" alt="Simarpreet's GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simar00316&layout=compact&hide_border=true&bg_color=07051a&title_color=ff9de2&text_color=f4f1ff" alt="Top languages">
 </p>
 
