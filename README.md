@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://simar00316.github.io"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=7FE7FF&center=true&vCenter=true&width=640&lines=Multi-agent+systems+with+LangGraph;RAG+chatbots+that+cite+their+sources;Chat+with+your+database+(text-to-SQL);LLM+evals+%E2%86%92+cheaper%2C+faster%2C+more+correct" alt="Typing tagline: multi-agent systems, RAG chatbots, text-to-SQL, LLM evals"></a>
+  <a href="https://simar00316.github.io"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=9AA1AD&center=true&vCenter=true&width=640&lines=Multi-agent+systems+with+LangGraph;RAG+chatbots+that+cite+their+sources;Chat+with+your+database+(text-to-SQL);LLM+evals+%E2%86%92+cheaper%2C+faster%2C+more+correct" alt="Typing tagline: multi-agent systems, RAG chatbots, text-to-SQL, LLM evals"></a>
 </p>
 
 <p align="center">
-  <a href="https://simar00316.github.io"><img src="https://img.shields.io/badge/Portfolio-simar00316.github.io-ff9de2?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://simar00316.github.io"><img src="https://img.shields.io/badge/Portfolio-simar00316.github.io-5b8cff?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.upwork.com/freelancers/~01c66ee925ab3899d3"><img src="https://img.shields.io/badge/Hire_me-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"></a>
   <a href="https://linkedin.com/in/simar316"><img src="https://img.shields.io/badge/LinkedIn-simar316-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:simarpreetsingh0316@gmail.com"><img src="https://img.shields.io/badge/Email-me-b8a6ff?style=for-the-badge" alt="Email"></a>
+  <a href="mailto:simarpreetsingh0316@gmail.com"><img src="https://img.shields.io/badge/Email-me-30363d?style=for-the-badge" alt="Email"></a>
 </p>
 
 ### 👾 About me
@@ -40,7 +40,7 @@
 ### 📊 Languages
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simar00316&layout=compact&hide_border=true&bg_color=07051a&title_color=ff9de2&text_color=f4f1ff" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simar00316&layout=compact&hide_border=true&bg_color=0d1117&title_color=f2f3f5&text_color=9aa1ad" alt="Top languages">
 </p>
 
 <p align="center"><sub>Have an AI idea or a broken prototype? <a href="https://simar00316.github.io">Let's build it →</a></sub></p>
