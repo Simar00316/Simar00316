@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://simar00316.github.io"><img src="https://img.shields.io/badge/Portfolio-simar00316.github.io-5b8cff?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.upwork.com/freelancers/~01c66ee925ab3899d3"><img src="https://img.shields.io/badge/Hire_me-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"></a>
-  <a href="https://linkedin.com/in/simar316"><img src="https://img.shields.io/badge/LinkedIn-simar316-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:simarpreetsingh0316@gmail.com"><img src="https://img.shields.io/badge/Email-me-30363d?style=for-the-badge" alt="Email"></a>
+  <a href="https://simar00316.github.io"><img src="https://img.shields.io/badge/Portfolio-simar00316.github.io-e6e8eb?style=for-the-badge&labelColor=161b22&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.upwork.com/freelancers/~01c66ee925ab3899d3"><img src="https://img.shields.io/badge/Hire_me-Upwork-e6e8eb?style=for-the-badge&labelColor=161b22&logo=upwork&logoColor=white" alt="Hire me on Upwork"></a>
+  <a href="https://linkedin.com/in/simar316"><img src="https://img.shields.io/badge/LinkedIn-simar316-e6e8eb?style=for-the-badge&labelColor=161b22&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4Wk01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzWk03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1Wk0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDBaIi8%2BPC9zdmc%2B" alt="LinkedIn"></a>
+  <a href="mailto:simarpreetsingh0316@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-e6e8eb?style=for-the-badge&labelColor=161b22&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ### 👾 About me
