@@ -15,8 +15,8 @@
 
 ### 👾 About me
 
-- 🛠️ **AI Engineer at [FAIR](https://simar00316.github.io/#work)** (UK sports-analytics AI). I lead a production LangGraph multi-agent platform serving **2,600+ conversations a month**.
-- 📈 Made it cheaper, faster and more correct at once: **text-to-SQL accuracy 67% → 87%** on a 302-case eval suite, **LLM cost −40–50%**, **6–7 s faster** per query, **cloud spend −57%**.
+- 🛠️ **AI Engineer at [FAIR](https://simar00316.github.io/#work)** (UK sports-analytics AI). I lead a production LangGraph multi-agent platform.
+- 📈 Made it cheaper, faster and more correct at once: **text-to-SQL accuracy 67% → 87%** on an eval suite, **LLM cost −40–50%**, **6–7 s faster** per query, **cloud spend −57%**.
 - 🚀 I take AI products **from idea to production**: architecture, agents, evals, backend, UI and deployment.
 - 💼 **Open for freelance work:** AI chatbots on your data, AI agents and automation, chat-with-your-database, and AI MVPs. [Start a project →](https://www.upwork.com/freelancers/~01c66ee925ab3899d3)
 
