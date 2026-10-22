@@ -14,7 +14,6 @@
 - AI Engineer building **production agentic systems and LLM applications**: multi-agent orchestration, retrieval, tool use and evaluation.
 - I work **eval-first**: measure the system, then make it more accurate, faster and cheaper through better routing, leaner prompts and token optimization.
 - I take AI products **from idea to production**: architecture, backend, UI and deployment.
-- Open to freelance projects and collaborations. [Get in touch →](https://simar00316.github.io/#contact)
 
 ### Featured projects
 
